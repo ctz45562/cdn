@@ -501,7 +501,7 @@
 		},
 		turnLightsOff: function() {
 			var darkCss = Engine.findStylesheet('darkenLights');
-			if (darkCss == null) {
+			if (darkCss == null){
 				$('head').append('<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/ctz45562/cdn@1.7.0/adarkroom/css/dark.css" type="text/css" title="darkenLights" />');
 				$('.lightsOff').text(_('lights on.'));
 				$SM.set('config.lightsOff', true, true);
