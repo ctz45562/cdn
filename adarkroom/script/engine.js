@@ -499,7 +499,6 @@
 			}
 			return false;
 		},
-
 		turnLightsOff: function() {
 			var darkCss = Engine.findStylesheet('darkenLights');
 			if (darkCss == null) {
