@@ -318,62 +318,62 @@ hr {
     z-index: 10;
     font-size: 0px; }
   .tile.tile-2 .tile-inner {
-    background-image: url(http://fp1.fghrsh.net/2019/10/23/5128f6da895da65ae5511966432fa6ba.jpg);
+    background-image: url(https://cdn.jsdelivr.net/gh/ctz45562/cdn@2.0.8/2048/images/chino.jpg);
     background-size: contain;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
   .tile.tile-4 .tile-inner {
-    background-image: url(http://fp1.fghrsh.net/2019/10/23/0bc28f76474bd753c769c110959feb85.jpg);
+    background-image: url(https://cdn.jsdelivr.net/gh/ctz45562/cdn@2.0.8/2048/images/cocoa.jpg);
     background-size: contain;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
   .tile.tile-8 .tile-inner {
-    background-image: url(http://fp1.fghrsh.net/2019/10/23/48550187d8bd7987125ac4208c337f86.jpg);
+    background-image: url(https://cdn.jsdelivr.net/gh/ctz45562/cdn@2.0.8/2048/images/rize.jpg);
     background-size: contain;}
   .tile.tile-16 .tile-inner {
-    background-image: url(http://fp1.fghrsh.net/2019/10/23/e7c295b21023455512aaf07d47d8b577.jpg);
+    background-image: url(https://cdn.jsdelivr.net/gh/ctz45562/cdn@2.0.8/2048/images/chiya.jpg);
     background-size: contain; }
   .tile.tile-32 .tile-inner {
-    background-image: url(http://fp1.fghrsh.net/2019/10/23/ef3b7d6404601aaba9d9a5de2fc0a30a.jpg);
+    background-image: url(https://cdn.jsdelivr.net/gh/ctz45562/cdn@2.0.8/2048/images/syaro.jpg);
     background-size: contain; }
   .tile.tile-64 .tile-inner {
-    background-image: url(http://fp1.fghrsh.net/2019/10/23/da656131e768c3b56108792160f03c14.jpg);
+    background-image: url(https://cdn.jsdelivr.net/gh/ctz45562/cdn@2.0.8/2048/images/megu.jpg);
     background-size: contain; }
   .tile.tile-128 .tile-inner {
-    background-image: url(http://fp1.fghrsh.net/2019/10/23/6a647ca3bc84caaff9e1b0c2ee0daf03.jpg);
+    background-image: url(https://cdn.jsdelivr.net/gh/ctz45562/cdn@2.0.8/2048/images/maye.jpg);
     background-size: contain;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.2381), inset 0 0 0 1px rgba(255, 255, 255, 0.14286); }
     @media screen and (max-width: 520px) {
       .tile.tile-128 .tile-inner {
         font-size: 0px; } }
   .tile.tile-256 .tile-inner {
-    background-image: url(http://fp1.fghrsh.net/2019/10/23/2bd49fd910069560749c6b317e5427cd.jpg);
+    background-image: url(https://cdn.jsdelivr.net/gh/ctz45562/cdn@2.0.8/2048/images/bluemountain.jpg);
     background-size: contain;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.31746), inset 0 0 0 1px rgba(255, 255, 255, 0.19048); }
     @media screen and (max-width: 520px) {
       .tile.tile-256 .tile-inner {
         font-size: 0px; } }
   .tile.tile-512 .tile-inner {
-    background-image: url(http://fp1.fghrsh.net/2019/10/23/468d7ba01df203f4a791dd45ebe3e273.jpg);
+    background-image: url(https://cdn.jsdelivr.net/gh/ctz45562/cdn@2.0.8/2048/images/moka.jpg);
     background-size: contain;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.39683), inset 0 0 0 1px rgba(255, 255, 255, 0.2381); }
     @media screen and (max-width: 520px) {
       .tile.tile-512 .tile-inner {
         font-size: 0px; } }
   .tile.tile-1024 .tile-inner {
-    background-image: url(http://fp1.fghrsh.net/2019/10/23/f40a56fbb5d4511495e5c61de17d5c04.jpg);
+    background-image: url(https://cdn.jsdelivr.net/gh/ctz45562/cdn@2.0.8/2048/images/anko.jpg);
     background-size: contain;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.47619), inset 0 0 0 1px rgba(255, 255, 255, 0.28571); }
     @media screen and (max-width: 520px) {
       .tile.tile-1024 .tile-inner {
         font-size: 0px; } }
   .tile.tile-2048 .tile-inner {
-    background-image: url(http://fp1.fghrsh.net/2019/10/23/290b844dc62bd5f7e478cec05ce132e4.jpg);
+    background-image: url(https://cdn.jsdelivr.net/gh/ctz45562/cdn@2.0.8/2048/images/wildgeese.jpg);
     background-size: contain;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.55556), inset 0 0 0 1px rgba(255, 255, 255, 0.33333); }
     @media screen and (max-width: 520px) {
       .tile.tile-2048 .tile-inner {
         font-size: 0px; } }
   .tile.tile-super .tile-inner {
-    background-image: url(http://fp1.fghrsh.net/2019/10/23/bc40a4020edbaad0a6a406ab885cc595.jpg);
+    background-image: url(https://cdn.jsdelivr.net/gh/ctz45562/cdn@2.0.8/2048/images/tibi.jpg);
     background-size: contain; }
     @media screen and (max-width: 520px) {
       .tile.tile-super .tile-inner {
